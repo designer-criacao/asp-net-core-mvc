@@ -30,3 +30,4 @@ C:\GitHub\aspMvc\obj\Debug\netcoreapp2.1\aspMvc.Views.pdb
 C:\GitHub\aspMvc\obj\Debug\netcoreapp2.1\aspMvc.dll
 C:\GitHub\aspMvc\obj\Debug\netcoreapp2.1\aspMvc.pdb
 C:\GitHub\aspMvc\obj\Debug\netcoreapp2.1\aspMvc.csproj.CopyComplete
+C:\GitHub\aspMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
